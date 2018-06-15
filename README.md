@@ -38,7 +38,7 @@ A: See the LICENSE file.
 Current Status
 --------------
 
-+ Tested on Go 1.4.2 and tip.
++ Tested on Go 1.9 and tip.
 + Tested on Windows, Linux and Mac OS X.
 + People tell me they've run it on Android, too.
 
